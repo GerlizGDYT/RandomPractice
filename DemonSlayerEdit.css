@@ -1,0 +1,93 @@
+.top-section{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.Top-Section-Title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.demonslayercast{
+    filter: hue-rotate(30deg);
+}
+
+.demonslayermanga{
+    filter: hue-rotate(40deg);
+
+}
+
+.Link-Section{
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    
+}
+
+.S1Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.S2Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.S3Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.MovieButton{
+    background-color:green;
+    border-color: grey;
+    color: black;
+}
+
+.How-it-started-section{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+.Store-Link{
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+
+.Store1Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.Store2Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.Store3Button{
+    background-color: green;
+    border-color: grey;
+    color: black;
+}
+
+.Wallpaper-Section{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: brown;
+    background-image: linear-gradient(red, black);
+}
